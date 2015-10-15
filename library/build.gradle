@@ -12,7 +12,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
  def siteUrl = 'https://github.com/shareme/GWSReveal'
  def gitUrl = 'https://github.com/shareme/GWSReveal.git'
- group = "com.github.shareme.GWSReveal"
+ group = "com.github.shareme"
 
 
 
